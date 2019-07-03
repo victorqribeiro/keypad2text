@@ -10,8 +10,10 @@ This is a silly project that I made a while back. I am from an era where you had
 
 ## How to use
 
-*Text to Keypad*
+**Text to Keypad**
+
 Enter text on the input field and click convert to generate keypad code.
 
-*Keypad to Text*
+**Keypad to Text**
+
 Enter the keypad code on the input field and click convert to generate text.
