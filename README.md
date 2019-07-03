@@ -1,6 +1,6 @@
 # keypad2text
 
-Transform text to keypad code and vice versa.
+Transform text to keypad code and vice versa. [Live version](https://victorribeiro.com/keypad2text)
 
 ![screenshot](screenshot.png)
 
