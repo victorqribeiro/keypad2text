@@ -47,8 +47,11 @@ function numToText(num){
   	return "invalid";
 	let string = "";
 	for(let i = 0; i < num.length; i+=2){
-      let i1 = parseInt(num[i]);
-      let i2 = parseInt(num[i+1]);
+      const i1 = parseInt(num[i]);
+      const i2 = parseInt(num[i+1]);
+      const letter = matrix[i1][i2];
+      if(!letter)
+      	return "invalid";
       string += matrix[i1][i2];
   }
   return string;
